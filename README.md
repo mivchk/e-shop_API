@@ -24,7 +24,7 @@ source <имя_окружения>/bin/activate
 4. Установите все необходимые пакеты с помощью команды
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 5. Разверните базу данных, используя docker
